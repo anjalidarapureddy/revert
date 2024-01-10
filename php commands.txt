@@ -1,0 +1,5 @@
+COMMANDS
+php artisan make:controller controllername
+php artisan make:model modelname -m
+php artisan migrate
+php artisan serve
